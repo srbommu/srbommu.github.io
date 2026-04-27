@@ -20,8 +20,7 @@
 
 title: "How Prior Experience Shapes the COMP110 Experience"
 email: "srbommu@unc.edu"
-description: >- # this means to ignore newlines until "baseurl:"
-An analysis of COMP110 survey data exploring how prior programming experience affects how difficult and understandable students find the course 
+description: "An analysis of COMP110 survey data exploring how prior programming experience affects how difficult and understandable students find the course"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "srbommu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "no twitter"
